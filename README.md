@@ -20,6 +20,8 @@ An end-to-end Python script built with **Pandas** and **Matplotlib** that ingest
 <img width="630" height="470" alt="Top 5 Revenue Generators bar Graph" src="https://github.com/user-attachments/assets/f9a31c5b-0e3e-4c71-b319-1044baed18ed" />
 
 ---
+:💼 Business Impact:Saves 5+ Hours Weekly: Eliminates the manual labor of cleaning downloaded storefront reports.Reduces Human Error: Automated cleaning ensures inventory pricing data matches raw financial performance precisely
+
 
 ## 🛠️ Tech Stack & Libraries
 - **Language:** Python 3
