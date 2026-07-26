@@ -1,5 +1,3 @@
-<img width="630" height="470" alt="download" src="https://github.com/user-attachments/assets/f9aa99d5-f7d1-4f81-aba5-2b79472c746f"/>
-
 # 📊 E-Commerce Revenue Analysis & Automated Data Pipeline
 An end-to-end Python script built with **Pandas** and **Matplotlib** that ingests raw e-commerce transaction data, cleans string-formatted currency values, handles missing values, and visualizes top revenue-generating products.
 
