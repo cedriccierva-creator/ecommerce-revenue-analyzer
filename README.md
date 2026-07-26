@@ -25,4 +25,3 @@ An end-to-end Python script built with **Pandas** and **Matplotlib** that ingest
 - **Language:** Python 3
 - **Data Manipulation:** `pandas`
 - **Visualization:** `matplotlib`
-- 
