@@ -17,7 +17,8 @@ An end-to-end Python script built with **Pandas** and **Matplotlib** that ingest
 
 ## 📈 Visual Output
 
-<img width="630" height="470" alt="Top 5 Revenue Generators bar Graph" src="https://github.com/user-attachments/assets/f9a31c5b-0e3e-4c71-b319-1044baed18ed" />
+<img width="630" height="470" alt="download" src="https://github.com/user-attachments/assets/afd2ff0f-c89a-44bc-99dd-ddec8bbd5696" />
+
 
 ---
 
